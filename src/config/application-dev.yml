@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+  mail:
+    host: localhost
+    port: 25
+    username:
+    password:
+
+app:
+  mail:
+    from: todo@localhost
+    base-url: http://127.0.0.1:8080
